@@ -1,5 +1,5 @@
 /***********************************************************************************
- * FILENAME: triangle.java
+ * FILENAME: TriangleDrawer.java
  * 
  * Tue 23 June, 12:40 PM, 2015
  *
